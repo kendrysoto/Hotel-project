@@ -1,0 +1,30 @@
+.h1{
+color: #ffffff;
+text-align: left;
+font-family: sans-serif;
+line-height: 05px;
+}
+
+.p{
+color: #ffffff;
+text-align: left;
+}
+
+.div2{
+height: 38px;
+width: 100%;
+background-color:dodgerblue;
+}
+
+.input{
+background-color: white;
+}
+
+.filter{
+background-color: white;
+margin: 7px 10px;
+width: 200px;
+border-radius: 4px;
+height: 20px;
+}
+

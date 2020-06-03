@@ -1,0 +1,16 @@
+.hero-body {
+    width: 90%;
+    height: 40%;
+    background-color:turquoise;
+    padding: 5%;
+    overflow: hidden;
+    }
+
+    .title{
+    color: white;  
+    }
+
+    .subtitle{
+    color: white;
+    }
+    

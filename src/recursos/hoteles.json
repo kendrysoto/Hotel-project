@@ -1,0 +1,57 @@
+{
+    "hoteles": [
+        {
+            "id":1,
+            "name": "Hotel Toledo",
+            "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor desconocido usó una galería de textos",
+            "city": "Buenos Aires",
+            "country": "Argentina",
+            "numberOfRooms": 10,
+            "price": 5000,
+            "startAvailability": "21-03-2020",
+            "finishAvailability": "30-03-2020",
+            "size": 70,
+            "reserved" : true
+            
+        },
+        {
+            "id":2,
+            "name": "Hotel Posada",
+            "description": " Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor desconocido usó una galería de textos",
+            "city": "Bogota",
+            "country": "Colombia",
+            "numberOfRooms": 10,
+            "price": 30000,
+            "startAvailability": "10-03-2020",
+            "finishAvailability": "15-03-2020",
+            "size": 30,
+            "reserved" : true
+        },
+        {
+            "id":3,
+            "name": "Hotel Medellin",
+            "description": " Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor desconocido usó una galería de textos",
+            "city": "Medellin",
+            "country": "Colombia",
+            "numberOfRooms": 15,
+            "price": 10000,
+            "startAvailability": "10-03-2020",
+            "finishAvailability": "15-03-2020",
+            "size": 30,
+            "reserved" : true
+        },
+        {
+            "id":4,
+            "name": "Hotel Cartagena",
+            "description": " Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor desconocido usó una galería de textos",
+            "city": "Cartagena",
+            "country": "Colombia",
+            "numberOfRooms": 20,
+            "price": 20000,
+            "startAvailability": "10-03-2020",
+            "finishAvailability": "15-03-2020",
+            "size": 30,
+            "reserved" : true
+        }
+    ]
+}
